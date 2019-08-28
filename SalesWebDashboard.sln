@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29215.179
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SalesWebDashboard", "SalesWebDashboard\SalesWebDashboard.csproj", "{1250C9FE-8822-4110-9935-22B152EC9D4E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1250C9FE-8822-4110-9935-22B152EC9D4E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1250C9FE-8822-4110-9935-22B152EC9D4E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1250C9FE-8822-4110-9935-22B152EC9D4E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1250C9FE-8822-4110-9935-22B152EC9D4E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {E53C8248-F451-429F-B906-1C381F6D6380}
+	EndGlobalSection
+EndGlobal
