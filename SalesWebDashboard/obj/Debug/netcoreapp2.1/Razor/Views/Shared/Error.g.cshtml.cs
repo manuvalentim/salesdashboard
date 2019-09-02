@@ -19,7 +19,7 @@ using SalesWebDashboard;
 #line default
 #line hidden
 #line 2 "C:\Users\Manuela\Documents\C#\SalesWebDashboard\SalesWebDashboard\Views\_ViewImports.cshtml"
-using SalesWebDashboard.Models.ViewModels;
+using SalesWebDashboard.Models;
 
 #line default
 #line hidden
